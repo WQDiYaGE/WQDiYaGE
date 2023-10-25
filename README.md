@@ -14,7 +14,7 @@ I'm a final-year undergraduate student pursuing a BSc (Hons.) in Software Engine
 
 🔥 I'm enthusiastic about the endless possibilities that technology offers, and I'm eager to collaborate on exciting projects and contribute to open-source initiatives.
 
-📫 Let's connect and explore the world of software development together! Feel free to reach out to me through [LinkedIn]([your-linkedin-profile-url](https://www.linkedin.com/in/sandaruwan-wadiyage-7072a2294)) or [Email](Reshan499@gmail.com).
+📫 Let's connect and explore the world of software development together! Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/sandaruwan-wadiyage-7072a2294) or [Email](Reshan499@gmail.com).
 
 Happy coding! 🚀
 
