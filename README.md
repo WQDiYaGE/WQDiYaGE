@@ -1,7 +1,6 @@
 
 ### Hi there, I'm Sandaruwan Wadiyage 👋
-
-            I'm a final-year undergraduate student pursuing a BSc (Hons.) in Software Engineering at the University of Plymouth, United Kingdom, while based in beautiful Sri Lanka at NSBM Green University. My academic journey has equipped me with a diverse set of skills and experiences, allowing me to explore a wide range of technologies and software development paradigms.
+I'm a final-year undergraduate student pursuing a BSc (Hons.) in Software Engineering at the University of Plymouth, United Kingdom, while based in beautiful Sri Lanka at NSBM Green University. My academic journey has equipped me with a diverse set of skills and experiences, allowing me to explore a wide range of technologies and software development paradigms.
 
 🚀 Here's a glimpse of what I've been up to:
 
