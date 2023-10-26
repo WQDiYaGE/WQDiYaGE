@@ -1,4 +1,4 @@
-![Wadiyage](./20230627_173804.jpg)
+![Wadiyage](./20230627_173804.jpg){width=300px height=200px}
 ### Hi there, I'm Sandaruwan Wadiyage 👋
 
 I'm a final-year undergraduate student pursuing a BSc (Hons.) in Software Engineering at the University of Plymouth, United Kingdom, while based in beautiful Sri Lanka at NSBM Green University. My academic journey has equipped me with a diverse set of skills and experiences, allowing me to explore a wide range of technologies and software development paradigms.
