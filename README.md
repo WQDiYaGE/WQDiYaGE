@@ -1,5 +1,5 @@
 
-<img src="./Wadiyage.jpg" width="300" height="400">
+
 
 ### Hi there, I'm Sandaruwan Wadiyage 👋
 
