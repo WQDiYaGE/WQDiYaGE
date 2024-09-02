@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sandaruwan Wadiyage</h1>
 <h3 align="center">A passionate software developer from Sri Lanka</h3>
-![xxx](https://gifer.com/embed/H9pn.gif)
-
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/H9pn.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wqdiyage&label=Profile%20views&color=0e75b6&style=flat" alt="wqdiyage" /> </p>
 
