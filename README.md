@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandaruwan Wadiyage</h1>
 <h3 align="center">A passionate software developer from Sri Lanka</h3>
 
-<img src="https://raw.githubusercontent.com/WQDiYaGE/WQDiYaGE/main/H9pn.gif" alt="Welcome GIF" width="600">
+<img src="https://raw.githubusercontent.com/WQDiYaGE/WQDiYaGE/main/bJk.gif" alt="Welcome GIF" width="600">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wqdiyage&label=Profile%20views&color=0e75b6&style=flat" alt="wqdiyage" /> </p>
