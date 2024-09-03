@@ -17,7 +17,7 @@
 </picture> 
 **About me**
 
-<img src="https://raw.githubusercontent.com/WQDiYaGE/WQDiYaGE/main/H9pn.gif" alt="Welcome GIF" width="600">
+<img src="https://raw.githubusercontent.com/WQDiYaGE/WQDiYaGE/main/BalangodaPULSE - Updated.png" alt="Welcome GIF" width="250">
 
 
 <br>
