@@ -17,7 +17,8 @@
 </picture> 
 **About me**
 
-<picture> <img align="right" src="https://media.giphy.com/media/l0HlPjezBGLoFPlKc/giphy.gif" width="250px"></picture>
+<img src="https://raw.githubusercontent.com/WQDiYaGE/WQDiYaGE/main/H9pn.gif" alt="Welcome GIF" width="600">
+
 
 <br>
 
