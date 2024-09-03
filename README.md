@@ -11,7 +11,8 @@
 
 <br>
 
-## <picture><img src="https://media.giphy.com/media/jUwpNzg9IcyrK/giphy.gif" width="50px">
+## <picture><img src="https://raw.githubusercontent.com/WQDiYaGE/WQDiYaGE/main/H9pn.gif" alt="Welcome GIF" width="600">
+
 </picture> 
 **About me**
 
