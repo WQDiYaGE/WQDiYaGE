@@ -11,7 +11,7 @@
 
 <br>
 
-## <picture><img src="https://raw.githubusercontent.com/WQDiYaGE/WQDiYaGE/main/Profile Image - Updated 2.png" alt="Welcome GIF" width="600">
+## <picture><img src="https://raw.githubusercontent.com/WQDiYaGE/WQDiYaGE/main/Sandaruwan Wadiyage - Captured.png" alt="Welcome GIF" width="600">
 
 </picture> 
 **About me**
