@@ -1,23 +1,22 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Nice to see you.</h1>
+# 👋 Hi there!
 
 I'm Sandaruwan Wadiyage, a final-year BSc (Hons.) Software Engineering student at NSBM Green University, affiliated with the University of Plymouth, UK. I have a passion for software development, particularly in mobile application development using the Flutter framework.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Software+Engineering+Student;Flutter+Developer;Passionate+about+Mobile+App+Development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!;Final-Year+BSc+(Hons.)+Software+Engineering+Student;Mobile+App+Developer+Enthasiast;Associate+about+Flutter+framework;Looking+for+Software+Developer+Internship+Experience)](https://git.io/typing-svg)
 
-### How to reach me: 
+### How to reach me
 <a href="mailto:Wadiyage567@gmail.com">
 <img src="https://img.shields.io/badge/-Wadiyage567%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  
 <a href="https://www.linkedin.com/in/sandaruwan-wadiyage/">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ### 🎓 Education
-<img src="https://raw.githubusercontent.com/WQDiYaGE/WQDiYaGE/main/H9pn.gif" alt="Welcome GIF" width="600">
 - **BSc (Hons.) in Software Engineering**  
   NSBM Green University, affiliated with the University of Plymouth, UK  
   (Expected Graduation: December 2024)
 
 ### 📚 Project Highlight
-- **BalangodaPULSE**: A comprehensive mobile and web system designed for the Urban Council of Balangoda to improve communication and automate processes.  
+**BalangodaPULSE**is a comprehensive mobile and web system designed to improve communication and automate processes for the Urban Council of Balangoda.  
   - **Mobile App**: Developed using Flutter and Firebase, featuring localized content delivery, community forums, issue reporting, and emergency alerts.  
   - **Admin Panel**: Built with ReactJS and NextJS, enabling local authorities to manage user interactions and monitor real-time data.
 
