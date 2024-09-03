@@ -5,13 +5,14 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub+Profile!+🌟;Final+Year+BSc+(Hons.)+Software+Engineering+Student;Mobile+App+Developer+Enthusiast;Passionate+about+Flutter+and+Backend+Integration">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+my+GitHub+Profile!+🌟;Final+Year+BSc+(Hons.)+Software+Engineering+Student;Mobile+App+Developer+Enthusiast;Passionate+about+Flutter+and+Backend+Integration">
   </a>
 </p>
 
+
 <br>
 
-## <picture><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTY0MXpmbDFnbGoxMHNzMDUzdnlrb3B6MTBqajFmYWFvbmM3amEyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.webp" alt="Data Doesn't Lie GIF" width="400">
+## <picture><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDg0Y3c5NnM4OHhxdWc4MGhlZ24wcHBhZDQzMTBwenV6MXYxd2tpeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bAULDwx44WOJfcwpwT/giphy.webp" alt="Data Doesn't Lie GIF" width="400">
 
 
 </picture> 
