@@ -11,6 +11,7 @@ I'm Sandaruwan Wadiyage, a final-year BSc (Hons.) Software Engineering student a
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ### 🎓 Education
+<img src="https://raw.githubusercontent.com/WQDiYaGE/WQDiYaGE/main/H9pn.gif" alt="Welcome GIF" width="600">
 - **BSc (Hons.) in Software Engineering**  
   NSBM Green University, affiliated with the University of Plymouth, UK  
   (Expected Graduation: December 2024)
