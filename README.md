@@ -11,14 +11,20 @@ I'm Sandaruwan Wadiyage, a final-year BSc (Hons.) Software Engineering student a
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ### 🎓 Education
-- **BSc (Hons.) in Software Engineering**  
-  NSBM Green University, affiliated with the University of Plymouth, UK  
-  (Expected Graduation: December 2024)
+**BSc (Hons.) in Software Engineering**  
+<div>
+  <p>🏫 NSBM Green University, affiliated with the University of Plymouth, UK</p>
+  <p> (Expected Graduation: December 2024) </p>
+</div>
 
 ### 📚 Project Highlight
-**BalangodaPULSE**is a comprehensive mobile and web system designed to improve communication and automate processes for the Urban Council of Balangoda.  
-  - **Mobile App**: Developed using Flutter and Firebase, featuring localized content delivery, community forums, issue reporting, and emergency alerts.  
-  - **Admin Panel**: Built with ReactJS and NextJS, enabling local authorities to manage user interactions and monitor real-time data.
+**BalangodaPULSE** is a comprehensive mobile and web system designed to improve communication and automate processes for the Urban Council of Balangoda.
+<div>
+  <p>📱 <strong>Mobile App</strong>: Developed using Flutter and Firebase, featuring localized content delivery, community forums, issue reporting, and emergency alerts.</p>
+  <p>🖥️ <strong>Admin Panel</strong>: Built with ReactJS and NextJS, enabling local authorities to manage user interactions and monitor real-time data.</p>
+</div>
+
+
 
 ### 🛠️ Skills & Technologies
 #### Languages
@@ -56,10 +62,12 @@ I'm Sandaruwan Wadiyage, a final-year BSc (Hons.) Software Engineering student a
 
 
 ### 🌱 Interests
-- Mobile application development  
-- Front-end and back-end web development  
-- Learning new technologies and frameworks  
-- Building user-friendly applications
+<div>
+  <p>✨ Mobile application development </p>
+  <p>✨ Front-end and back-end web development </p> 
+  <p>✨ Learning new technologies and frameworks </p>
+  <p>✨ Building user-friendly applications</p>
+</div>
 
 ### 🎯 Career Goals
 I'm looking for an internship opportunity to gain hands-on experience in the IT industry. I'm eager to apply my academic knowledge to real-world projects, contribute to a dynamic team, and continue developing my technical skills.
