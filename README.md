@@ -11,7 +11,8 @@
 
 <br>
 
-## <picture><img src="https://raw.githubusercontent.com/WQDiYaGE/WQDiYaGE/main/Sandaruwan Wadiyage - Captured.png" alt="Welcome GIF" width="600">
+## <picture><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTY0MXpmbDFnbGoxMHNzMDUzdnlrb3B6MTBqajFmYWFvbmM3amEyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.webp" alt="Data Doesn't Lie GIF" width="400">
+
 
 </picture> 
 **About me**
